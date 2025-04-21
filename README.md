@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋  
+I'm Emrah(Adun), a self-taught developer based in the Netherlands.  
+I love building web applications and solving real-world problems through code.  
 
-<!--
-**AdunAiur/AdunAiur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 Tech Stack:
+- JavaScript, HTML, CSS  
+- Node.js, Express  
+- MongoDB  
+- Git & GitHub  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Reach me:
+- 📧 emrah_bulent@hotmail.com
+- 🌐 [[LinkedIn](https://linkedin.com/in/adun)]
