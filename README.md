@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Adun
+# Hi there 👋 I'm Emrah
 
 🚀 Self-taught developer on a mission to conquer the code universe  
 💻 JavaScript | Node.js | HTML/CSS | Git | Express  
